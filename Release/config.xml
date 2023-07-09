@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<monitors lut_toggle="Pause">
+  <monitor path="\\?\DISPLAY#AOC2590#5&amp;35bebf68&amp;0&amp;UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}" sdr_lut="C:\Users\nicks\Desktop\filter factory\Release\WZ2 LUTs\WZ_IcemanIsaac_ShadowSeer.cube">
+    <sdr_luts>
+      <sdr_lut>C:\Users\nicks\Downloads\filter factory\Release\WZ2 LUTs\WZ_IcemanIsaac_ShadowSeer.cube</sdr_lut>
+      <sdr_lut>C:\Users\nicks\Desktop\filter factory\Release\WZ2 LUTs\WZ_IcemanIsaac_ShadowSeer.cube</sdr_lut>
+    </sdr_luts>
+  </monitor>
+</monitors>
